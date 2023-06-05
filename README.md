@@ -6,3 +6,6 @@
 - Android app (Kotlin)
 - iOS app (Swift)
 - React Native app (TypeScript)
+
+## Tech
+- GraphQL
