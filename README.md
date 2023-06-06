@@ -9,3 +9,4 @@
 
 ## Tech
 - GraphQL
+- React Query
