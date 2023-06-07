@@ -10,3 +10,4 @@
 ## Tech
 - GraphQL
 - React Query
+- Node
